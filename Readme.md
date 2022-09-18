@@ -2,6 +2,8 @@
 
 Keylogger written in Python with features including taking screenshots, recording microphone, gather clipboard contents, and getting system information
 
+developed a python code which will simply run in the command prompt and it will send the key logging information through the email address I provide. We will get to know for which purpose our system is being used by someone else.
+
 An advanced keylogger has been created in python which has the capability of sending emails, getting screenshots, recording your microphone, getting computer information, and the clipboard. All features work together to create both a keylogger and a spyware-like payload.
 
 
